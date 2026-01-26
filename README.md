@@ -1,4 +1,4 @@
-## Hello my name is Gabriela, I've been a developer for 2 years.
+## Hello my name is Gabriela, I've been a developer for 3 years.
 
 
   ### 👨🏻‍💻 Software Engineer | Developer
